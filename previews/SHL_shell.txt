@@ -1,0 +1,34 @@
+Error
+id
+firstname
+lastname
+id
+firstname
+lastname
+id
+firstname
+lastname
+id
+lastname
+firstname
+lastname
+id
+id
+age
+id
+firstname
+lastname
+lastname  | firstname 
+------------------------
+ SIMPSON  |  Lisa     
+ SIMPSON  |  Lisa     
+ SIMPSON  |  Robert   
+ SIMPSON  |  RobertJohn
+ SIMPSON  |  RobertJohn
+ SMITH    |  Laura    
+ SMITH    |  Laura    
+ SMITH    |  Lisa     
+ SMITH    |  Lisa     
+ SMITH    |  Lisa     
+ WILLIAMS |  John     
+ WILLIAMS |  John     

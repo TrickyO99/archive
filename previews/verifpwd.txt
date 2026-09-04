@@ -1,0 +1,8 @@
+
+Bienvenue dans l'interface de verification de mot de passe !
+
+Veuillez inserer votre mot de passe : Veuillez confirmer votre mot de passe : 
+Les deux passwords sont identiques.
+
+
+Le mot de passe a pu être vérifié.

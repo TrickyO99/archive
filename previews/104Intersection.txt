@@ -1,0 +1,5 @@
+sphere of radius 1
+straight line going through the (0,0,0) point and of direction vector (1,0,0)
+2 intersection points :
+(-1.000, 0.000, 0.000)
+(1.000, 0.000, 0.000)

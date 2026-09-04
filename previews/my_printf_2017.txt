@@ -1,0 +1,4 @@
+string: hello | char: P | percent: %
+int: 42 | negative: 42
+unsigned: 4000000000 | octal: 35632624000 | hex: ee6b2800 | HEX: EE6B2800
+binary: 1010 | pointer: 0xa
